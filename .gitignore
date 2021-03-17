@@ -1,0 +1,5 @@
+# Dependency directories
+node_modules/
+app-old.js
+.DS_Store
+public/backup/
